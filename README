@@ -1,10 +1,5 @@
-Music Blocks is a tangible beat sequencer. It is inspired by
-http://murderandcreate.com/tangiblesequencer/
+Music Blocks is a tangible beat sequencer. It is inspired by http://murderandcreate.com/tangiblesequencer/
 
-How it works:
-Place blocks on the screen by dragging them from the box in the upper left onto the wooden surface.
-To make a block play its tone, double click it. Notice that the triangular area in front of it
-pulses. This is called its "effect area." Try dragging another block above the first block such
-that it is inside this effect area, then double click the first block again. This time, the first
-block plays its note, followed by the second block. By putting blocks inside effect areas, blocks
-can be chained together to play a sequence of notes. Try the sample songs!
+To try it out, download the music-blocks.html and music-blocks.swf files and put them in the same directory. Then open the music-blocks.html file in a browswer.
+
+Click the "help" button in the lower left corner to learn how to use Music Blocks.
